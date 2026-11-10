@@ -41,3 +41,5 @@ https://youtu.be/h4QC22nYz_I?si=GnseixaALYs0tTeW
 ## Como executar
 npm install
 npx expo start
+
+*Testei o Projeto*
